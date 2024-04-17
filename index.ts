@@ -1,3 +1,4 @@
+#!/usr/env/ node
 import inquirer from "inquirer";
 
 const answers: {
